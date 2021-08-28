@@ -45,6 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Discord Bot Ep.8 "Bienvenida / Comandos y Alias"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=0YwFEVqit1U)
+- [Discord Bot Ep.7 "Manejadores Evento/Comando"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=wOnUZnzb7CI)
+- [Discord Bot Ep.6 "Slash Commads"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=Tnsz8IWB7a4)
+- [Discord Bot Ep.5 "Delimitar comandos"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=k1Qot30jRm0)
+- [Discord Bot Ep.4  "Mensajes Embded" -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=AZSyyirYTTA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/Ocelotl-Z)
