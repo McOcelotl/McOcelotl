@@ -10,7 +10,7 @@
 ### Social Media:
 
 [<img align="left" alt="Ocelotl-Z | YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" style="padding-right:1rem;"/>][youtube]
-[<img align="left" alt="Ocelotl-Z | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="padding-right:1rem;"/>][linkedin]
+[<img align="left" alt="Ocelotl-Z | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" style="padding-right:1rem;"/>][linkedin]
 [<img align="left" alt="Ocelotl-Z | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"/>][instagram]
 
 <br />
