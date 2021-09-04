@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Discord Bot Ep.10 "Conectar Bot a MongoDB"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=hrwT7qZrWew)
 - [Instalar MongoDB y MongoDB Compass WIN 10](https://www.youtube.com/watch?v=Z6Ox7GlHMiA)
 - [Discord Bot Ep.9 "Bienvenida con Canvas / AutoRol "  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=bIwQmtkoyQE)
 - [Discord Bot "Replit"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=1YGgLn4nPGw)
 - [Discord Bot Resolviendo dudas  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=N4QuJ-EDPUw)
-- [Discord Bot Ep.8 "Bienvenida / Comandos y Alias"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=0YwFEVqit1U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/Ocelotl-Z)
