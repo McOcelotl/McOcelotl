@@ -45,7 +45,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Discord Bot Ep.2 "Botones y roles"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=HeqGzhsa1Tc)
+- [Discord Bot Ep.12 "Botones y roles"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=HeqGzhsa1Tc)
 - [Discord Bot Ep.11 "Host Discord Bot - Heroku"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=wAONbQA-l_M)
 - [Discord Bot Ep.10 "Conectar Bot a MongoDB"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=hrwT7qZrWew)
 - [Instalar MongoDB y MongoDB Compass WIN 10](https://www.youtube.com/watch?v=Z6Ox7GlHMiA)
