@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Discord Bot Ep.15 "Menu Atattchments Embeds"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=vbK3Eg9b9-c)
 - [Discord Bot Ep.14 "Select Menu"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=2PbEX2b-US4)
 - [Discord Bot Ep.13 "Slash Handler/Commands"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=gYoftixDulU)
 - [Discord Bot Ep.12 "Botones y roles"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=HeqGzhsa1Tc)
 - [Discord Bot Ep.11 "Host Discord Bot - Heroku"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=wAONbQA-l_M)
-- [Discord Bot Ep.10 "Conectar Bot a MongoDB"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=hrwT7qZrWew)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/Ocelotl-Z)
