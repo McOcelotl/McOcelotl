@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Discord Bot Ep.18 "MessageCollectors"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=zueDrLiRh3w)
 - [Discord Bot Ep.17 "Mute Unmute Tempmute"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=e5N8gVXjxDM)
 - [Discord Bot Ep.16 "Ban \ Unban"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=t70aTEmmJDA)
 - [JavaScript - Condicionales](https://www.youtube.com/watch?v=AClSBdHd1_I)
 - [JavaScript - Operadores](https://www.youtube.com/watch?v=b78-J2ft374)
-- [Discord Bot Ep.15 "Menu Atattchments Embeds"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=vbK3Eg9b9-c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/Ocelotl-Z)
