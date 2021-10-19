@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Discord Bot Ep.20 "Warns" (3/3)  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=UNfqFhJ1KCg)
 - [Discord Bot Ep.20 "Warns" (2/3)  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=TGjeBJLHbtQ)
 - [Discord Bot Ep.20 "Warns" (1/3)  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=RBzZXqgoRgI)
 - [Discord Bot Ep.19 "Modificando BD para comando perfil"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=Mue2Rt1d1lE)
 - [Discord Bot Ep.18 "MessageCollectors"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=zueDrLiRh3w)
-- [Discord Bot Ep.17 "Mute Unmute Tempmute"  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=e5N8gVXjxDM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/Ocelotl-Z)
