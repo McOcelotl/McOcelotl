@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Discord Bot Ep.28 &quot;Econonmia &lpar;Pay&rpar;&quot;  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=PsNmKO41hHs)
 - [Discord Bot Ep.27 &quot;Economía&quot;  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=FbzuVyITFZQ)
 - [Discord Bot Ep.26 &quot;Lyrics&quot;  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=vu0Ofhbe3gE)
 - [Discord Bot Ep.25 &quot;Tickets&quot;  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=DNBWYXduuk8)
 - [Discord Bot Ep.24 &quot;Loop, Next , Prev, Del, Stop&quot;  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=0ghj3WM33w0)
-- [Discord Bot Dudas &lpar;Play/Bienvenida&rpar;  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=Z8RAhcmFQzE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/Ocelotl-Z)
