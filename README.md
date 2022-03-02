@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Discord Bot Ep.33 &quot;Events &lpar;Como tener mas eventos&rpar;&quot;  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=YYk_YN2810o)
 - [Discord Bot Ep.32 &quot;Set Prefix&quot;  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=yhwgxv_0zXM)
 - [Discord Bot Ep.31 &quot;Economia &lpar;Robo a Banco &amp; Limitantes por día&rpar;&quot;  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=63UlRJL3-eg)
 - [Discord Bot Ep.30 &quot;Economia &lpar;Robo a Usuarios&rpar;&quot;  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=GguU4tey6SE)
 - [Discord Bot Ep.29 &quot;Economia &lpar;Transferencia&rpar;&quot;  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=fxWwxixs7Vw)
-- [Discord Bot Ep.28 &quot;Econonmia &lpar;Pay&rpar;&quot;  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=PsNmKO41hHs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/Ocelotl-Z)
