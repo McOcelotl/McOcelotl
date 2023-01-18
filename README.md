@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on: [Youtube Series!][series]!
 - 🌱 I’m currently learning JavaScript/NodeJs/TypeScript
-- 🥅 Goals: Finish college
 - ⚡ Fun fact: I love play R6/Warzone whit my friends
 
 ### Social Media:
