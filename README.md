@@ -9,9 +9,9 @@
 
 ### Social Media:
 
-[<img align="left" alt="Ocelotl-Z | YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" style="padding-right:1rem;"/>][youtube]
-[<img align="left" alt="Ocelotl-Z | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" style="padding-right:1rem;"/>][linkedin]
-[<img align="left" alt="Ocelotl-Z | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"/>][instagram]
+[<img align="left" alt="Ocelotl-Z | YouTube" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" style="padding-right:1rem;"/>][youtube]
+[<img align="left" alt="Ocelotl-Z | LinkedIn" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" style="padding-right:1rem;"/>][linkedin]
+[<img align="left" alt="Ocelotl-Z | Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg"/>][instagram]
 
 <br />
 
@@ -29,13 +29,13 @@
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="padding-right:1rem;" />
 
-<img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/png/512/29/29595.png" style="padding-right:1rem;" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="padding-right:1rem;" />
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="padding-right:1rem;" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="padding-right:1rem;" />
 
-<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/733/733553.png"/>
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 
 <br />
 <br />
@@ -45,11 +45,12 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Discord Bot Ep.33 &quot;Events &lpar;Como tener mas eventos&rpar;&quot;  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=YYk_YN2810o)
-- [Discord Bot Ep.32 &quot;Set Prefix&quot;  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=yhwgxv_0zXM)
-- [Discord Bot Ep.31 &quot;Economia &lpar;Robo a Banco &amp; Limitantes por día&rpar;&quot;  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=63UlRJL3-eg)
-- [Discord Bot Ep.30 &quot;Economia &lpar;Robo a Usuarios&rpar;&quot;  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=GguU4tey6SE)
-- [Discord Bot Ep.29 &quot;Economia &lpar;Transferencia&rpar;&quot;  -  NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=fxWwxixs7Vw)
+
+- [Discord Bot Ep.33 &quot;Events &lpar;Como tener mas eventos&rpar;&quot; - NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=YYk_YN2810o)
+- [Discord Bot Ep.32 &quot;Set Prefix&quot; - NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=yhwgxv_0zXM)
+- [Discord Bot Ep.31 &quot;Economia &lpar;Robo a Banco &amp; Limitantes por día&rpar;&quot; - NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=63UlRJL3-eg)
+- [Discord Bot Ep.30 &quot;Economia &lpar;Robo a Usuarios&rpar;&quot; - NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=GguU4tey6SE)
+- [Discord Bot Ep.29 &quot;Economia &lpar;Transferencia&rpar;&quot; - NodeJS / DiscordJS v13](https://www.youtube.com/watch?v=fxWwxixs7Vw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/Ocelotl-Z)
